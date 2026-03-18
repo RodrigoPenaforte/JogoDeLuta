@@ -6,6 +6,19 @@ O objetivo do projeto é ser um “RPG de turno simples” no console, mas com a
 
 ---
 
+## Como rodar (rapidão)
+
+1) Abra o terminal na pasta do projeto (onde está o `.csproj`)
+2) Rode:
+
+```bash
+dotnet run
+```
+
+Se der erro, confere se você tem o SDK do .NET instalado (e se estiver no diretório certo do projeto).
+
+---
+
 ## Como o jogo roda (bem por cima)
 
 - `Program.cs` chama o menu.
